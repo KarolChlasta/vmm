@@ -1,1 +1,1 @@
-# vmm
+# Vulnerability Management Model
